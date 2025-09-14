@@ -37,7 +37,7 @@ Pip package manager
 
 Clone the repository (if applicable):
 
-git clone https://github.com/your-repo/cricbuzz_analysis_project.git
+git clone https://github.com/vedantg18/cricbuzz-realtime-analysis
 cd cricbuzz_analysis_project
 
 
@@ -99,5 +99,6 @@ The script uses default encoding (ISO-8859-1) to avoid Unicode errors.
 Add CLI arguments to specify input and output files.
 
 Integrate automated unit tests.
+
 
 Build advanced visualizations in Streamlit (e.g., charts, filters).
