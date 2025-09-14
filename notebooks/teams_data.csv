@@ -1,0 +1,17 @@
+team_id,team_name,team_name_short,image_url,country,home_city,founded_year,total_wins
+1,Royal Challengers Bangalore,RCB,https://documents.iplt20.com/ipl/RCB/Logos/Logooutline/RCBoutline.png,Sri Lanka,City_0,1932,504
+2,Sunrisers Hyderabad,SRH,https://documents.iplt20.com/ipl/SRH/Logos/Logooutline/SRHoutline.png,Pakistan,City_1,1881,130
+3,Mumbai Indians,MI,https://documents.iplt20.com/ipl/MI/Logos/Logooutline/MIoutline.png,Ireland,City_2,1967,484
+4,Rising Pune Supergiant,RPS,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/RPS.png?v=2,West Indies,City_3,1917,818
+5,Gujarat Lions,GL,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/GL.png?v=2,South Africa,City_4,2009,646
+6,Kolkata Knight Riders,KKR,https://documents.iplt20.com/ipl/KKR/Logos/Logooutline/KKRoutline.png,Sri Lanka,City_5,1900,20
+129,Chennai Super Kings,CSK,https://documents.iplt20.com/ipl/CSK/logos/Logooutline/CSKoutline.png,Afghanistan,City_6,1937,840
+134,Rajasthan Royals,RR,https://1000logos.net/wp-content/uploads/2024/03/Rajasthan-Royals-Logo-768x432.png,England,City_7,1901,166
+252,Delhi Capitals,DC,https://documents.iplt20.com/ipl/DC/Logos/LogoOutline/DCoutline.png,Sri Lanka,City_8,1968,273
+494,Punjab Kings,PK,https://documents.iplt20.com/ipl/PBKS/Logos/Logooutline/PBKSoutline.png,Ireland,City_9,1928,387
+614,Lucknow Super Giants,LSG,https://documents.iplt20.com/ipl/LSG/Logos/Logooutline/LSGoutline.png,Ireland,City_10,1938,600
+615,Gujarat Titans,GT,https://documents.iplt20.com/ipl/GT/Logos/Logooutline/GToutline.png,West Indies,City_11,1894,315
+1068,Deccan Chargers,DEC,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/DEC.png?v=2,South Africa,City_12,1930,13
+1414,Kochi Tuskers Kerala,KTK,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/KTK.png?v=2,Pakistan,City_13,1987,241
+1419,Pune Warriors,PWI,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/PWI.png?v=2,West Indies,City_14,1934,776
+3604,Rising Pune Supergiants,RPS,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/RPS.png?v=2,West Indies,City_15,1943,345
